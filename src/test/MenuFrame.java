@@ -1,14 +1,4 @@
-/*
- * 
- * Module 3 CTA Option 1: Creating a User Interface with JavaFX
- * Brian Gunther
- * CSC372: Programming II
- * Colorado State University Global
- * Dr. Vanessa Cooper
- * September 1, 2024
- * 
- */
-
+package test;
 
 import javafx.application.Application;
 import javafx.application.Platform;
